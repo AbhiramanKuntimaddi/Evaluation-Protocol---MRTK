@@ -16,30 +16,35 @@
 \usepackage[T1]{fontenc}
 \usepackage{tgbonum}
 
+\renewcommand{\thesection}{\Roman{section}}
+\renewcommand{\thesubsection}{\thesection.\Roman{subsection}}
+\renewcommand{\thesubsubsection}{\thesection.\alph{subsubsection}}
+
+\newenvironment{subs}
+  {\adjustwidth{3em}{0pt}}
+  {\endadjustwidth}
 
 \title{\textbf{Evaluation Protocol}}
 \author{Abhiraman Kuntimaddi}
+\date{February 25, 2022}
 
 \begin{document}
 \maketitle
 
-\begin{abstract}
-Your abstract.
-\end{abstract}
+\section{General Outline}
 
-\section{Introduction}
+\subsection{Evaluation Goals}
 
-Your introduction goes here! Simply start writing your document and use the Recompile button to view the updated PDF preview. Examples of commonly used commands and features are listed below, to help you get started.
+Analyze MR(Mixed Reality) application in OpenXR(Cross Platform Development) and Native implementation using Unity Game Engine for the purpose of comparision with respect to Accuray, Effiency and Time.
 
-Once you're familiar with the editor, you can find various project setting in the Overleaf menu, accessed via the button in the very top left of the editor. To view tutorials, user guides, and further documentation, please visit our \href{https://www.overleaf.com/learn}{help library}, or head to our plans page to \href{https://www.overleaf.com/user/subscription/plans}{choose your plan}.
+\subsection{Tools to Compare}
 
-\section{Some examples to get started}
+\begin{itemize}
+  \item MRTK(Mixed Reality ToolKit) Native implementation in Unity
+  \item MRTK OpenXR implementation in Unity
+\end{itemize}
 
-\subsection{How to create Sections and Subsections}
-
-Simply use the section and subsection commands, as in this example document! With Overleaf, all the formatting and numbering is handled automatically according to the template you've chosen. If you're using Rich Text mode, you can also create new section and subsections via the buttons in the editor toolbar.
-
-\subsection{How to include Figures}
+\subsection{Scenarios}
 
 First you have to upload the image file from your computer using the upload link in the file-tree menu. Then use the includegraphics command to include it in your document. Use the figure environment and the caption command to add a number and a caption to your figure. See the code for Figure \ref{fig:frog} in this section for an example.
 
@@ -107,6 +112,7 @@ To change the spell check language, simply open the Overleaf menu at the top lef
 You can simply upload a \verb|.bib| file containing your BibTeX entries, created with a tool such as JabRef. You can then cite entries from it, like this: \cite{greenwade93}. Just remember to specify a bibliography style, as well as the filename of the \verb|.bib|. You can find a \href{https://www.overleaf.com/help/97-how-to-include-a-bibliography-using-bibtex}{video tutorial here} to learn more about BibTeX.
 
 If you have an \href{https://www.overleaf.com/user/subscription/plans}{upgraded account}, you can also import your Mendeley or Zotero library directly as a \verb|.bib| file, via the upload menu in the file-tree.
+
 
 
 % \bibliographystyle{alpha}
