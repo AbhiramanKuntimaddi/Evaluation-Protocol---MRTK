@@ -487,6 +487,18 @@ INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.s
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\t1qbk.fd
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\t1qbk.fd
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\t1qbk.fd
@@ -616,6 +628,9 @@ INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\ts1qbk.fd
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\tex\latex\tex-gyre\ts1qbk.fd
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ts1-qbkr.tfm
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ec-qbkri.tfm
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ec-qbkbi.tfm
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
@@ -623,6 +638,8 @@ INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\tex-gyre\q-ec
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\tex-gyre\q-ts1.enc
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qbkb.pfb
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qbkb.pfb
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qbkbi.pfb
+INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qbkbi.pfb
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qbkr.pfb
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qbkr.pfb
 INPUT C:\Users\abhir\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qbkri.pfb
